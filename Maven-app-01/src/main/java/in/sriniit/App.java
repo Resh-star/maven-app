@@ -19,9 +19,7 @@ public class App
         System.out.println( "Python" );
 
         System.out.println( "Hello AWS" );
-        //This Changes to represent branching concept
-        System.out println("Git branching");
-
+        
     }
 
 }
