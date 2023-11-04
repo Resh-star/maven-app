@@ -11,8 +11,11 @@ public class App
     {
         System.out.println( "Hello World!" );
 
-        //Changes related to 1001 tast
+        //Changes related to 1001 task
     
         System.out.println( "Hello DevOps" );
+
+        //Changes related to 1002 task
+        System.out.println( "Python" );
     }
 }
