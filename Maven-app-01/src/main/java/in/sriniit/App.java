@@ -14,12 +14,14 @@ public class App
         //Changes related to 1001 task
     
         System.out.println( "Hello DevOps" );
-<<<<<<< Updated upstream
 
         //Changes related to 1002 task
         System.out.println( "Python" );
-=======
+
         System.out.println( "Hello AWS" );
->>>>>>> Stashed changes
+        //This Changes to represent branching concept
+        System.out println("Git branching");
+
     }
+
 }
