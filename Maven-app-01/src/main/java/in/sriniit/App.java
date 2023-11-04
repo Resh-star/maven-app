@@ -19,7 +19,9 @@ public class App
         System.out.println( "Python" );
 
         System.out.println( "Hello AWS" );
-        
+
+       // changes for git fetch
+        System.out.println("git fetch");
     }
 
 }
